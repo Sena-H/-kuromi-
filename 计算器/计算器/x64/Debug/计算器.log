@@ -1,0 +1,33 @@
+﻿  计算器.cpp
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(97,29): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(99,29): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(102,37): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(105,38): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(107,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(107,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(116,29): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(118,29): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(120,29): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(123,38): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(126,38): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(130,38): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(132,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(132,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(142,29): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(145,29): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(148,38): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(153,38): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(155,39): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(164,29): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(166,29): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(168,29): warning C4473: “sprintf_s”: 没有为格式字符串传递足够的参数
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(171,38): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(174,38): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(178,38): warning C4474: sprintf_s: 格式字符串中传递的参数太多
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(180,46): warning C4838: 从“float”转换到“LONG”需要收缩转换
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(180,46): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(180,64): warning C4838: 从“float”转换到“LONG”需要收缩转换
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(180,64): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(180,77): warning C4838: 从“float”转换到“LONG”需要收缩转换
+C:\Users\Mars\source\repos\计算器\计算器\计算器.cpp(180,77): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+  计算器.vcxproj -> C:\Users\Mars\source\repos\计算器\x64\Debug\计算器.exe
