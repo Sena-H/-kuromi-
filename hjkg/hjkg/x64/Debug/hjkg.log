@@ -1,0 +1,16 @@
+﻿  hjkg.cpp
+C:\Users\Mars\source\repos\hjkg\hjkg\hjkg.cpp(171,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Mars\source\repos\hjkg\hjkg\hjkg.cpp(193,22): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\Mars\source\repos\hjkg\hjkg\hjkg.cpp(197,22): warning C4305: “-=”: 从“double”到“float”截断
+C:\Users\Mars\source\repos\hjkg\hjkg\hjkg.cpp(210,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Mars\source\repos\hjkg\hjkg\hjkg.cpp(211,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Mars\source\repos\hjkg\hjkg\hjkg.cpp(220,35): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Mars\source\repos\hjkg\hjkg\hjkg.cpp(221,35): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  DK_lib_gui.lib(Gui.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  已完成代码的生成
+DK_lib_gui.lib(Gui.obj) : warning LNK4099: 未找到 PDB“”(使用“DK_lib_gui.lib(Gui.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+DK_lib_core.lib(Dictionary.obj) : warning LNK4099: 未找到 PDB“”(使用“DK_lib_core.lib(Dictionary.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  hjkg.vcxproj -> C:\Users\Mars\source\repos\hjkg\x64\Debug\hjkg.exe

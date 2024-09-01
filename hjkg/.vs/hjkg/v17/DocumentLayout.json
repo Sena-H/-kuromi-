@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mars\\source\\repos\\hjkg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9BDC25-ED08-4934-A97C-9A5942085D27}|hjkg\\hjkg.vcxproj|C:\\Users\\Mars\\source\\repos\\hjkg\\hjkg\\hjkg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F9BDC25-ED08-4934-A97C-9A5942085D27}|hjkg\\hjkg.vcxproj|solutionrelative:hjkg\\hjkg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hjkg.cpp",
+              "DocumentMoniker": "C:\\Users\\Mars\\source\\repos\\hjkg\\hjkg\\hjkg.cpp",
+              "RelativeDocumentMoniker": "hjkg\\hjkg.cpp",
+              "ToolTip": "C:\\Users\\Mars\\source\\repos\\hjkg\\hjkg\\hjkg.cpp",
+              "RelativeToolTip": "hjkg\\hjkg.cpp",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAACUBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T17:33:16.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
