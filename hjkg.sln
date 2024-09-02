@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hjkg", "hjkg\hjkg.vcxproj", "{7F9BDC25-ED08-4934-A97C-9A5942085D27}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "黄金矿工2.0", "黄金矿工2.0\黄金矿工2.0.vdproj", "{00E756F3-815C-456F-BAB6-B04AF0E16283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9BDC25-ED08-4934-A97C-9A5942085D27}.Debug|x64.ActiveCfg = Debug|x64
+		{7F9BDC25-ED08-4934-A97C-9A5942085D27}.Debug|x64.Build.0 = Debug|x64
+		{7F9BDC25-ED08-4934-A97C-9A5942085D27}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F9BDC25-ED08-4934-A97C-9A5942085D27}.Debug|x86.Build.0 = Debug|Win32
+		{7F9BDC25-ED08-4934-A97C-9A5942085D27}.Release|x64.ActiveCfg = Release|x64
+		{7F9BDC25-ED08-4934-A97C-9A5942085D27}.Release|x64.Build.0 = Release|x64
+		{7F9BDC25-ED08-4934-A97C-9A5942085D27}.Release|x86.ActiveCfg = Release|Win32
+		{7F9BDC25-ED08-4934-A97C-9A5942085D27}.Release|x86.Build.0 = Release|Win32
+		{00E756F3-815C-456F-BAB6-B04AF0E16283}.Debug|x64.ActiveCfg = Debug
+		{00E756F3-815C-456F-BAB6-B04AF0E16283}.Debug|x86.ActiveCfg = Debug
+		{00E756F3-815C-456F-BAB6-B04AF0E16283}.Release|x64.ActiveCfg = Release
+		{00E756F3-815C-456F-BAB6-B04AF0E16283}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88DAB427-47A3-443D-BB56-C26DFCC76B52}
+	EndGlobalSection
+EndGlobal
