@@ -1,0 +1,82 @@
+﻿  hjkg.cpp
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(64,40): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(64,50): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(64,63): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(64,73): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(64,85): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(64,95): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(64,106): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(64,122): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(64,140): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(64,152): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(65,6): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(65,16): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(65,27): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(65,38): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(65,48): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(65,57): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(65,66): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(65,76): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(65,87): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(65,96): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(65,107): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(159,29): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(160,42): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(162,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(163,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(164,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(165,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(167,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(168,45): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(170,32): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(171,45): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(259,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(269,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(269,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(269,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(269,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(271,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(271,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(271,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(271,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(272,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(272,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(272,23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(272,13): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(277,25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(277,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(298,20): warning C4305: “初始化”: 从“double”到“float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(312,25): warning C4305: “=”: 从“double”到“float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(317,26): warning C4305: “=”: 从“double”到“float”截断
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(325,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(326,20): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(329,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(330,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(331,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(332,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(333,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(334,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(335,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(336,22): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(379,25): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(380,25): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(383,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(384,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(385,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(386,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(388,28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(389,28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(391,28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(392,28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(461,27): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(462,27): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(471,28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\QQFiles\hjkgs_bgm\hjkg\hjkg\hjkg.cpp(471,56): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  DK_lib_gui.lib(Gui.obj) : 找到 MSIL .netmodule 或使用 /GL 编译的模块；正在使用 /LTCG 重新启动链接；将 /LTCG 添加到链接命令行以改进链接器性能
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  已完成代码的生成
+DK_lib_gui.lib(Gui.obj) : warning LNK4099: 未找到 PDB“”(使用“DK_lib_gui.lib(Gui.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+DK_lib_core.lib(Dictionary.obj) : warning LNK4099: 未找到 PDB“”(使用“DK_lib_core.lib(Dictionary.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  hjkg.vcxproj -> D:\QQFiles\hjkgs_bgm\hjkg\x64\Debug\hjkg.exe
